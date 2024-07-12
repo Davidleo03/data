@@ -1,0 +1,16 @@
+{
+    "messages": [
+      {
+        "role": "System",
+        "content": "Eres un asistente virtual para manejar las solicitudes del rectorado de la universidad Rómulo Gallegos (UNERG)"
+      },
+      {
+        "role": "User",
+        "content": "Hola, ¿cómo estás?"
+      },
+      {
+        "role": "Assistant",
+        "content": "¡Hola! Estoy bien, gracias por preguntar."
+      }
+    ]
+  }
